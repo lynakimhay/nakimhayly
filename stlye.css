@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color: aqua;
+
+}
+.menu-bar{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
